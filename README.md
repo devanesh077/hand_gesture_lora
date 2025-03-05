@@ -26,4 +26,4 @@ Left
 
 Right
 
-Watch the robot respond to your hand gestures across long distances enabled by LoRa communication.
+.
